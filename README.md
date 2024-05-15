@@ -1,1 +1,1 @@
-A simple model predicting when Algae will bloom based on 11 parametres. The model is combination of multiple methods of linear models and regression trees. The model tuning involves comparing with cross-validation lm, rt and then taking the best model.
+A simple model predicting when Algae will bloom based on 11 parametres. First step was cleaning and filling out NAs with kNN. The model is combination of multiple methods of linear models and regression trees. The model tuning involves comparing with cross-validation both methods and then taking the best model.
